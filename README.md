@@ -1,6 +1,6 @@
 # Hi there, I'm Mannat Singh 👋
 
-I am a 2nd-year Electrical and Computer Engineering student at **Thapar Institute of Engineering & Technology**, specializing in **Edge AI, Distributed Systems, and Machine Intelligence**. 
+I am a 3rd-year Electrical and Computer Engineering student at **Thapar Institute of Engineering & Technology**, specializing in **Edge AI, Distributed Systems, and Machine Intelligence**. 
 
 My core focus is on building lightweight ML architectures that run on constrained edge devices and privacy-preserving distributed learning systems.
 
